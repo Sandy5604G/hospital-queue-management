@@ -1,0 +1,17 @@
+# Hospital Queue Management System Requirements
+# No external dependencies required for basic functionality
+# Optional: Add these for enhanced features
+
+# For web interface (optional)
+# flask>=2.0.0
+# flask-sqlalchemy>=3.0.0
+
+# For GUI (optional)
+# tkinter  # Usually comes with Python
+
+# Core requirements
+python>=3.8
+
+# Optional requirements (uncomment if needed)
+# pandas>=1.3.0
+# matplotlib>=3.4.0
